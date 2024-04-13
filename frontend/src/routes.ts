@@ -5,22 +5,22 @@ import { PiChatCircleBold } from "react-icons/pi";
 
 export const routes = [
     {
-        title: "Home",
+        title: "Accueil",
         href: "#",
         Icon: BiHomeAlt2,
     },
     {
-        title: "Explore",
+        title: "Setup",
         href: "#",
         Icon: FiSearch,
     },
     {
-        title: "Pricing",
+        title: "Settings",
         href: "#",
         Icon: IoPricetagsOutline,
     },
     {
-        title: "About",
+        title: "Gallerie",
         href: "#",
         Icon: PiChatCircleBold,
     },
